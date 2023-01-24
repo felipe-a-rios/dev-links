@@ -31,7 +31,7 @@ body {
 }
 #container {
   width: 22.5rem;
-  margin: 3.5rem auto 0rem;
+  margin: 2rem auto 0rem;
   padding: 0 1.5rem;
 }
 #profile {
@@ -116,7 +116,7 @@ li a:hover {
 #social {
   display: flex;
 
-  padding: 1.5rem 0;
+  padding: 0.5rem 0;
   font-size: 1.5rem;
   align-items: center;
   justify-content: center;
